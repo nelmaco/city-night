@@ -254,8 +254,8 @@ th {
 }
 @font-face {
   font-family: 'Glyphicons Halflings';
-  src: url('../fonts/glyphicons-halflings-regular.html');
-  src: url('https://cdn.rawgit.com/nelmaco/city-night/e3ba9dfe/glyphicons-halflings-regulard41d.html?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/nelmaco/city-night/e3ba9dfe/glyphicons-halflings-regular-2.html') format('woff2'), url('https://cdn.rawgit.com/nelmaco/city-night/e3ba9dfe/glyphicons-halflings-regular-3.html') format('woff'), url('https://cdn.rawgit.com/nelmaco/city-night/e3ba9dfe/glyphicons-halflings-regular-4.html') format('truetype'), url('https://github.com/nelmaco/city-night/blob/master/glyphicons-halflings-regular-5.html#glyphicons_halflingsregular') format('svg');
+  src: url('https://cdn.rawgit.com/nelmaco/city-night/c4955677/glyphicons-halflings-regular.html');
+  src: url('https://cdn.rawgit.com/nelmaco/city-night/e3ba9dfe/glyphicons-halflings-regulard41d.html?#iefix') format('embedded-opentype'), url('https://cdn.rawgit.com/nelmaco/city-night/e3ba9dfe/glyphicons-halflings-regular-2.html') format('woff2'), url('https://cdn.rawgit.com/nelmaco/city-night/e3ba9dfe/glyphicons-halflings-regular-3.html') format('woff'), url('https://cdn.rawgit.com/nelmaco/city-night/e3ba9dfe/glyphicons-halflings-regular-4.html') format('truetype'), url('https://cdn.rawgit.com/nelmaco/city-night/c4955677/glyphicons-halflings-regular-5.html#glyphicons_halflingsregular') format('svg');
 }
 .glyphicon {
   position: relative;
